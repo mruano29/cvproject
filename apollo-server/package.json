@@ -1,0 +1,16 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "description": "a test of apollo server",
+  "main": "./src/index.js",
+  "author": "Manuel Ruano",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "faker": "^4.1.0",
+    "graphql": "^14.1.1"
+  }
+}
